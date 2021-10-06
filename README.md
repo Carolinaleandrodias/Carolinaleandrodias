@@ -17,10 +17,12 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/9-29-2021/QMEUM4.gif">
 </div>
   
-  ##
-      <form id="form">
-      <h2>Voce pode me encontrar aqui⬇</h2>
-  <div>
+  ## <div>
+
+<form id="form">
+      <h2>Voce pode me encontrar aqui ⬇</h2>
+  </div>
+   <div>
   <a href="https://www.instagram.com/carolinaleandro_d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
