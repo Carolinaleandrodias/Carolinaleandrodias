@@ -2,7 +2,7 @@
 
 - 🔭 Analista de Documentoscopia.
 - 🌱 Aprendendo a programar.
-- 😻 Eu amo gatinhos.
+- 😻 Eu amo gatinhos e café.
 
 <div align="center">
   <a href="https://github.com/Carolinaleandrodias">
