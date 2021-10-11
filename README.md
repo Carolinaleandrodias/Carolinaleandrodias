@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carolina 👋
+### Olá! Eu sou a Carolina Dias 👋
 
 - 🔭 Analista de Documentoscopia.
 - 🌱 Aprendendo a programar.
