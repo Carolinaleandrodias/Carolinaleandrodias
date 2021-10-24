@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Carolina Dias 👋
 
-- 🔭 Analista de Documentoscopia.
-- 🌱 Aprendendo a programar.
-- 😻 Eu amo gatinhos e café.
+- 🔭 Documentoscopy Analyst.
+- 🌱 Learning to program.
+- 😻 I love kittens and coffee.
 
 <div align="center">
   <a href="https://github.com/Carolinaleandrodias">
