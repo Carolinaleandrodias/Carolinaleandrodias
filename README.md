@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carolina Dias 👋
+### Hi! I am Carolina Dias 👋
 
 - 🔭 Documentoscopy Analyst.
 - 🌱 Learning to program.
