@@ -1,6 +1,6 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carolina Dias</h1>
 
-- 🔭 Documentoscopy Analyst.
+- 🔭 Implementation Analyst.
 - 🌱 Learning to program.
 - 😻 I love kittens and coffee.
 
