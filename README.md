@@ -13,6 +13,7 @@
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carol-Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
 </div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/9-29-2021/QMEUM4.gif">
 </div>
