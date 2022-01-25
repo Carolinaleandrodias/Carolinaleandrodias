@@ -14,7 +14,7 @@
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Carol-Node.js" height="30" width="40" src="https://logospng.org/wp-content/uploads/node-js.png">
+     <img align="center" alt="Carol-Node.js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 </div>
 </div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/9-29-2021/QMEUM4.gif">
