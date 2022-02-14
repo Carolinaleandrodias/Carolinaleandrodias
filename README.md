@@ -30,5 +30,10 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/carolina-leandro-044252191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           <a href="https://twitter.com/caroliiiinadias" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    
+    <div>
+  <form id="form">
+      <h2>Thank you, and come back soon!</h2>
+  </div>
+     
+     
   </div>
