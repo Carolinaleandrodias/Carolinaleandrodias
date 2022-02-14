@@ -32,7 +32,7 @@
           <a href="https://twitter.com/caroliiiinadias" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <div>
   <form id="form">
-      <h2>Thank you, and come back soon! </h2> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+      <h2>Thank you, and come back soon! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
   </div>
      
      
