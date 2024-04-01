@@ -12,12 +12,6 @@
 </div>
 
 <div align="center"> 
-<a href="https://instagram.com/carolinaleandro_d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%db0f86?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<!-- <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-<a href="https://www.linkedin.com/in/carolina-leandro-044252191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%db0f86?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = "carolinaleandro99.com"> <img src="https://img.shields.io/badge/-Gmail-%db0f86?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db0f86&height=120&section=footer"/>
 
